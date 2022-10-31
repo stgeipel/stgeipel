@@ -103,12 +103,6 @@
 <br/>  
 
 
-## Github Stats
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=stgeipel&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stgeipel&hide_border=true&layout=compact" align="right" /></div>  
-</div>
- 
-
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=stgeipel&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
