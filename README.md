@@ -5,7 +5,7 @@
   
 
 ### <div align="center">I'm Steffen, a full-time full-stack developer 👨‍💻</div>  
-🌱 I’m currently learning Kubernetes and Terrraform<br>❓ Ask me about anything related to SQL Server and C#
+🌱 I’m currently learning Rust <br>❓ Ask me about anything related to SQL Server and C#
 
 
 ## 🌐 Socials:
